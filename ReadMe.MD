@@ -14,8 +14,8 @@ pip install -r requirements.txt
 
 # Execute the command
 ````
-# Update Domain Array
-
+# Update Domain Array in research_run-zsh file
+ 
 <!-- 
 --------------------
 domains=(
